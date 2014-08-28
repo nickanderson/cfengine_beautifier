@@ -43,3 +43,10 @@ CFEngine configuration file beautifier written in Python. It can be used standal
 #### Command Line Options
 
 Run cf-beautify --help
+
+#### Installation
+
+##### Manual Install with ST3
+cd ~/.config/sublime-text-3/Packages
+git clone https://github.com/naksu/cfengine_beautifier.git CFEngineBeautifier
+
